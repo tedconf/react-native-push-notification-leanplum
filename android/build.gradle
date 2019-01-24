@@ -58,5 +58,5 @@ dependencies {
     implementation 'me.leolin:ShortcutBadger:1.1.8@aar'
     implementation "com.google.firebase:firebase-messaging:$firebaseVersion"
 
-    implementation 'com.leanplum:leanplum-fcm:+'
+    implementation 'com.leanplum:leanplum-fcm:4.2.2'
 }
