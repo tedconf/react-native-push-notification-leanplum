@@ -58,5 +58,5 @@ dependencies {
     compile "com.google.android.gms:play-services-gcm:$googlePlayServicesVersion"
     compile 'me.leolin:ShortcutBadger:1.1.8@aar'
     compile "com.google.firebase:firebase-messaging:$firebaseVersion"
-    compile 'com.leanplum:leanplum-fcm:+'
+    compile 'com.leanplum:leanplum-fcm:4.2.2'
 }
