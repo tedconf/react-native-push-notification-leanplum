@@ -1,6 +1,6 @@
 {
   "name": "@brandingbrand/react-native-push-notification-leanplum",
-  "version": "3.2.0",
+  "version": "3.2.0.1",
   "description": "React Native Local and Remote Notifications",
   "main": "index",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "git+ssh://git@github.com:zo0r/react-native-push-notification.git"
   },
   "dependencies": {
-    "@react-native-community/push-notification-ios": "^1.0.1"
+    "@react-native-community/push-notification-ios": "^1.0.3"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
@@ -35,8 +35,5 @@
     }
   },
   "author": "Branding Brand Inc.",
-  "license": "MIT",
-  "dependencies": {
-    "@react-native-community/push-notification-ios": "^1.0.3"
-  }
+  "license": "MIT"
 }
